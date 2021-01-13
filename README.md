@@ -1,6 +1,6 @@
 # Coding Master Algorithm Repository
 ---
 
-|  Number  |                                            Name                                            |
+|  No.     |                                     Problems Name                                          |
 |:--------:|:------------------------------------------------------------------------------------------:|
 | 344      |[Reverse String](https://leetcode.com/problems/reverse-string/)                             |
