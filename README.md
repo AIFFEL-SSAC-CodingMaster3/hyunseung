@@ -2,7 +2,7 @@
 ---
 
 |  No.(code link) |           Problems Name(Leetcode)                                                             |
-|:------- -------:|:---------------------------------------------------------------------------------------------:|
+|:---------------:|:---------------------------------------------------------------------------------------------:|
 | [125](./125.py) |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                            |
 | [344](./344.py) |[Reverse String](https://leetcode.com/problems/reverse-string/)                                |
 | [937](./937.py) |[Reorder Log File](https://leetcode.com/problems/reorder-data-in-log-files/)                   |
