@@ -46,3 +46,9 @@ class Solution:
 nums = [1,-1,-1,0]
 ret = Solution()
 print(ret.threeSum(nums))
+
+"""
+브루트 포스는 O(n^3)인 무식한 방법
+숫자 하나를 고정시켜 두면 그나마 O(n^2)인 방법으로 풀이가 가능
+다른 사람들은 binary search로 풀었던데 그럼 O(nlogn)쯤 될듯?
+"""
