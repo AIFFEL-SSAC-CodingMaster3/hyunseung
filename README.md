@@ -40,7 +40,7 @@
 | [077](./077.py) |[Combinations](https://leetcode.com/problems/combinations/)                                      |
 | [039](./039.py) |[Combination Sum](https://leetcode.com/problems/combination-sum/)                                |
 | [078](./078.py) |[Subsets](https://leetcode.com/problems/subsets/)                                                |
-| [332](./332.py) |[Reconstruct Itinerary](https://leetcode.com/problems/course-schedule/)                          |
-| [207](./207.py) |[Course Schedule](https://leetcode.com/problems/combinations/)                                   |
+| [332](./332.py) |[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                    |
+| [207](./207.py) |[Course Schedule](https://leetcode.com/problems/course-schedule/)                                |
 | [743](./743.py) |[Network Delay Time](https://leetcode.com/problems/network-delay-time/)                          |
 | [787](./787.py) |[Cheapest Flights Within K stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|
