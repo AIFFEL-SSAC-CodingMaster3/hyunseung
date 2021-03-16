@@ -50,8 +50,3 @@
 | [226](./226.py) |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                          |
 | [617](./617.py) |[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                  |
 | [297](./297.py) |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|
-=======
-| [332](./332.py) |[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                    |
-| [207](./207.py) |[Course Schedule](https://leetcode.com/problems/course-schedule/)                                |
-| [743](./743.py) |[Network Delay Time](https://leetcode.com/problems/network-delay-time/)                          |
-| [787](./787.py) |[Cheapest Flights Within K stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|
